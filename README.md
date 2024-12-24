@@ -16,5 +16,5 @@
 - 👯 I’m looking to collaborate on innovative projects that focus on impactful digital solutions and sustainability.  
 - 🤔 I’m looking for help with exploring advanced techniques in software architecture and development practices.  
 - 💬 Ask me about web development, my transition from law to tech, or anything about full-stack development!  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tuanaeroll/) or via email at [erolltuana@gmail.com](mailto:erolltuana@gmail.com).  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eroltuana/) or via email at [erolltuana@gmail.com](mailto:erolltuana@gmail.com).  
 - ⚡ Fun fact: I’ve transitioned from a career in law to tech, and I enjoy exploring new cities and perfecting my spaghetti-making skills!  
