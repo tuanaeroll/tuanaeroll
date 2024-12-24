@@ -7,7 +7,7 @@
 # README Update in Progress
 
 🚧 **Currently, a major update is being worked on for this README file!** 🚧
-# aaaaaaaaaa
+
 ![Work in Progress](https://media.giphy.com/media/13HgwXsTtV9T5m/giphy.gif)
 
 # But Just For Now
