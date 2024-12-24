@@ -8,7 +8,7 @@
 
 🚧 **Currently, a major update is being worked on for this README file!** 🚧
 
-![Work in Progress](https://media.giphy.com/media/xT9Igg3IEUyNo2oVZi/giphy.gif)
+![Work in Progress](https://media.giphy.com/media/13HgwXsTtV9T5m/giphy.gif)
 
 # But Just For Now
 - 🌱 I’m currently learning Ruby and improving my skills in Rails, as well as diving into C# and .NET development.  
