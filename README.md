@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  Let's <span style="color: #FF88B6;">design</span> & <span style="color: #FF88B6;">code</span> something beautiful!
+  Currently my<span style="color: #FF88B6;">skills</span>
 </h3>
 
 <p align="center">
