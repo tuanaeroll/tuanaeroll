@@ -15,5 +15,18 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eroltuana/) or via email at [erolltuana@gmail.com](mailto:erolltuana@gmail.com).  
 - ⚡ Fun fact: I’ve transitioned from a career in law to tech, and I enjoy exploring new cities and perfecting my spaghetti-making skills!
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=40" alt="GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4" alt="Most Used Languages" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tuanaeroll&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tuanaeroll&theme=dark)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=tuanaeroll&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula)
+</div>
