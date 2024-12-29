@@ -19,7 +19,7 @@
 </div>
 
   <!-- Profil Detay Kartları -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula" alt="Most Commit Language" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula" alt="Most Commit Language" width="45%" />
 </div>
