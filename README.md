@@ -11,14 +11,19 @@
 - ⚡ Fun fact: I’ve transitioned from a career in law to tech, and I enjoy exploring new cities and perfecting my spaghetti-making skills!
 
 ## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=40" alt="GitHub Stats" />
+  <!-- Genel GitHub İstatistikleri -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" width="60%" />
+  
+  <!-- En Çok Kullanılan Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4&layout=compact" alt="Most Used Languages" width="50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4" alt="Most Used Languages" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=tuanaeroll&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula)
+  <!-- Aktivite Grafiği -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=tuanaeroll&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="90%" />
+  
+  <!-- Profil Detay Kartları -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula" alt="Most Commit Language" width="45%" />
 </div>
