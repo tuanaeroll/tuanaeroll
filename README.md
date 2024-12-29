@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  Currently my<span style="color: #FF88B6;">skills</span>
+  Currently my <span style="color: #FF88B6;">skills:</span>
 </h3>
 
 <p align="center">
