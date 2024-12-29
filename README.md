@@ -50,6 +50,7 @@
   </details>
 <!-- end statics fun section -->
 <!-- start static Spotify song -->
+<!-- start static Spotify song -->
 ### I really like music :headphones:
 
 <!-- Nothing weird to see here -->
