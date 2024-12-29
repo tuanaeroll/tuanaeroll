@@ -16,8 +16,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4" alt="Most Used Languages" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuanaeroll&theme=dark)
-
 <img src="https://activity-graph.herokuapp.com/graph?username=tuanaeroll&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula)
