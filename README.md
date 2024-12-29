@@ -18,9 +18,6 @@
   
   <!-- En Çok Kullanılan Diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4&layout=compact" alt="Most Used Languages" width="50%" />
-
-  <!-- Aktivite Grafiği -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=tuanaeroll&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="90%" />
   
   <!-- Profil Detay Kartları -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
