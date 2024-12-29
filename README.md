@@ -49,3 +49,18 @@
   </div>
   </details>
 <!-- end statics fun section -->
+<!-- start static Spotify song -->
+### I really like music :headphones:
+
+<!-- Nothing weird to see here -->
+<p align="center">currently listening to</p>
+<p align="center">
+  <a href="https://open.spotify.com/track/4jHXjkfs0zvvNmgg56OGvw" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c16db5d6f82446610ff98b83" alt="You Know I'm No Good" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Listen to this awesome track on <a href="https://open.spotify.com/track/4jHXjkfs0zvvNmgg56OGvw" target="_blank">Spotify</a></i>
+</p>
+<!-- end static Spotify song -->
