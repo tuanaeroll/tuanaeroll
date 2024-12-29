@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast;Building+The+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stimulus/stimulus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <!-- SQL -->
 </p>
-
-
 
 ## But Just For Now
 - 🌱 I’m currently learning Ruby and improving my skills in Rails, as well as diving into C# and .NET development.  
