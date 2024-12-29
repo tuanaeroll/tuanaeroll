@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=435&lines=Tuana+Erol;Code+and+Design+Enthusiast)](https://git.io/typing-svg)
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast;Building+The+Future+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
