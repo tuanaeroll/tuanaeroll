@@ -50,8 +50,6 @@
   </details>
 <!-- end statics fun section -->
 
-### I really like music :headphones:
-
 <!-- Spotify Embed -->
 <p align="center">
   <iframe src="https://open.spotify.com/embed/track/4jHXjkfs0zvvNmgg56OGvw" width="300" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
