@@ -1,4 +1,4 @@
-![Tuana Erol Header](./profile/header.svg)
+![Tuana Erol Header](./rails-stupid-coaching/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F54748&background=FFFFFF00&width=435&lines=Tuana+Erol;Code+and+Design+Enthusiast)](https://git.io/typing-svg)
 
