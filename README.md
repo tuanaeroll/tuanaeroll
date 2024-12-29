@@ -49,7 +49,7 @@
   </div>
   </details>
 <!-- end statics fun section -->
-<!-- start static Spotify song -->
+
 <!-- start static Spotify song -->
 ### I really like music :headphones:
 
@@ -65,3 +65,4 @@
   <i>Listen to this awesome track on <a href="https://open.spotify.com/track/4jHXjkfs0zvvNmgg56OGvw" target="_blank">Spotify</a></i>
 </p>
 <!-- end static Spotify song -->
+
