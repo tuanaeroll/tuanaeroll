@@ -33,7 +33,9 @@
 - ⚡ Fun fact: I’ve transitioned from a career in law to tech, and I enjoy exploring new cities and perfecting my spaghetti-making skills!
 
 ## 📊 GitHub Stats
-
+<!-- start statics fun section -->
+<details>
+<summary><b> Some Statistics Fun </b></summary>
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" height="200px" />
@@ -44,4 +46,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula" alt="Most Commit Language" width="45%" />
-</div>
+  </div>
+  </details>
+<!-- end statics fun section -->
