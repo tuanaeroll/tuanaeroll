@@ -15,6 +15,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eroltuana/) or via email at [erolltuana@gmail.com](mailto:erolltuana@gmail.com).  
 - ⚡ Fun fact: I’ve transitioned from a career in law to tech, and I enjoy exploring new cities and perfecting my spaghetti-making skills!
 
+## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=40" alt="GitHub Stats" />
 
