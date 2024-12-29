@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=#ffd2d8&background=FFFFFF00&width=435&lines=Tuana+Erol;Code+and+Design+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=#FF88B6&background=FFFFFF00&width=435&lines=Tuana+Erol;Code+and+Design+Enthusiast)](https://git.io/typing-svg)
 
 
 ## But Just For Now
