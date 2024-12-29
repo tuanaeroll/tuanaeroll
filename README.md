@@ -22,7 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stimulus/stimulus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <!-- SQL -->
 </p>
+
 
 ## But Just For Now
 - 🌱 I’m currently learning Ruby and improving my skills in Rails, as well as diving into C# and .NET development.  
