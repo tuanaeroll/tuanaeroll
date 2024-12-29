@@ -16,10 +16,9 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <!-- Genel GitHub İstatistikleri -->
     <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" width="45%" />
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4&layout=compact" alt="Most Used Languages" width="45%" />
   </div>
-  
+
   <!-- Profil Detay Kartları -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="45%" />
