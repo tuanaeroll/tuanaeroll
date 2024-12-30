@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/ruby.svg" alt="ruby" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/rails.svg" alt="rails" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/databases/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/github.svg" alt="github" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/figma.svg" alt="figma" style="vertical-align:top; margin:4px">
+  <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Rails-%23CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="rails" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/SQL-%2307405E?style=flat&logo=postgresql&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:4px">
 </p>
 
 
