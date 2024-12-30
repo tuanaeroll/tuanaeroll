@@ -54,13 +54,8 @@
 
 <p>Always on the hunt for unique wines and pastas to try 🍷🍝.</p>
 <p>Jazz music is my soul’s rhythm 🎷🎶.</p>
-<p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on Medium or hosting my own podcast series 🎙📱.</p>
-<p>Stay tuned! 😎✨</p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 <details>
 <summary><b>| 👯 Now Playing | </b></summary>
-<table>
   <tbody>
     <tr>
       <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">🎷 Amy Winehouse - You Know I'm No Good</a></td>
@@ -72,5 +67,9 @@
       <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank">🌙 Tamino - Habibi</a></td>
     </tr>
   </tbody>
-</table>
 </details>
+<p> ----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on my own podcast series and also creating amazing web sites. 🎙📱.</p>
+<p>Stay tuned! 😎✨</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
