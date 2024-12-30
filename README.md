@@ -41,18 +41,16 @@
 <details>
 <summary><b>| 🎵 Now Playing | </b></summary>
 <table>
-<tbody>
+  <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b2739d93b34c6348c27066bc5e76" width="540" height="64" alt="Amy Winehouse - You Know I'm No Good"></a></td>
+      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">🎵 Amy Winehouse - You Know I'm No Good</a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b27339c7267b204bbd7a32711a79" width="540" height="64" alt="Braids - Evolution"></a></td>
+      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank">🎶 Braids - Evolution</a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b2734e3a2a3b105db89eac813e09" width="540" height="64" alt="Tamino - Habibi"></a></td>
+      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank">🌙 Tamino - Habibi</a></td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 </details>
