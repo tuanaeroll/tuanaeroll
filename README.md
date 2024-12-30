@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Rails-%23CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="rails" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/SQL-%2307405E?style=flat&logo=postgresql&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=dotnet&logoColor=white" alt="dotnet" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=.net&logoColor=white" alt="dotnet" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:4px">
