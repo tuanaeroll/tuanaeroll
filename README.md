@@ -54,15 +54,11 @@
 
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
-**Radically empathetic technology illuminates our path towards a more just future.**
-
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 ---
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/track/3a1hvjxtTfzFLraNFU0mnM?si=2c3e49156d8a4e39" target="_blank">Amy Winehouse - You Know I'm No Good</a> |
+| <a href="https://open.spotify.com/track/3a1hvjxtTfzFLraNFU0mnM?si=2c3e49156d8a4e39" target="_blank" class="track-link">🎤 Amy Winehouse - You Know I'm No Good</a> |
 
 <table>
   <thead>
@@ -72,13 +68,83 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">Amy Winehouse - You Know I'm No Good</a></td>
+      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank" class="track-link">🎵 Amy Winehouse - You Know I'm No Good</a></td>
     </tr>
     <tr>
-      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank">Braids - Evolution</a></td>
+      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank" class="track-link">🎶 Braids - Evolution</a></td>
     </tr>
     <tr>
-      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank">Tamino - Habibi</a></td>
+      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank" class="track-link">🌙 Tamino - Habibi</a></td>
     </tr>
   </tbody>
 </table>
+
+<style>
+  /* Genel stil */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f7f7f7;
+  }
+
+  /* Link stilleri */
+  .track-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #ff77b5; /* Tatlı pembe renk */
+    transition: all 0.3s ease;
+    display: inline-block;
+    margin: 10px 0;
+  }
+
+  /* Hover efekti */
+  .track-link:hover {
+    color: #ff3b72; /* Daha koyu pembe */
+    transform: scale(1.1);
+    text-decoration: underline;
+  }
+
+  /* Emoji eklemeleri için stil */
+  .track-link::before {
+    margin-right: 10px;
+    font-size: 22px;
+    vertical-align: middle;
+    transition: transform 0.3s ease;
+  }
+
+  /* Hoverda emoji animasyonu */
+  .track-link:hover::before {
+    transform: rotate(10deg); /* Emoji hareketi */
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+
+  table th {
+    font-size: 20px;
+    color: #333;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+
+  table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  table td a {
+    font-size: 18px;
+    color: #ff77b5;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  table td a:hover {
+    color: #ff3b72;
+    transform: scale(1.1);
+    text-decoration: underline;
+  }
+</style>
