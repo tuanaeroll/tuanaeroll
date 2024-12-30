@@ -51,11 +51,13 @@
 <!-- end statics fun section -->
 
 <p> ----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
 <p>Always on the hunt for unique wines and pastas to try 🍷🍝.</p>
 <p>Jazz music is my soul’s rhythm 🎷🎶.</p>
 <p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on Medium or hosting my own podcast series 🎙📱.</p>
 <p>Stay tuned! 😎✨</p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 <details>
 <summary><b>| 👯 Now Playing | </b></summary>
 <table>
