@@ -43,13 +43,15 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank" class="track-link">🎵 Amy Winehouse - You Know I'm No Good</a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
+    <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank" class="track-link">🎶 Braids - Evolution</a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
+    <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank" class="track-link">🌙 Tamino - Habibi</a></td>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
