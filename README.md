@@ -31,7 +31,6 @@
 <p>Currently a Patika.dev student, focusing on C# and aiming to become an expert in it 💡🔧.</p>
 <p>Dived into Ruby on Rails, HTML, CSS and JavaScript — at Le Wagon Amsterdam and have been perfecting them ever since 🚀💻.</p>
 <p>Along the way, I’ve worked on some awesome projects that you can check out in my pinned repos 🔥📂.</p>
-<p>Not taking myself too seriously here 😄 Feel free to connect with me through any of the links above! 🌟</p>
 
 <!-- start statics fun section -->
 <details>
