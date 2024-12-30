@@ -2,12 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast" alt="Typing SVG" />
 </p>
 <p align='center'>
-  <a href="https://github.com/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/github.svg"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/tuananerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/twitter.svg"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/instagram.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/buymeacoffee.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/linkedin.svg"></a>
+  <a href="https://github.com/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/github.svg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/tuananerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/twitter.svg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/buymeacoffee.svg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/linkedin.svg?raw=true"></a>
 </p>
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧜‍♀️ Tuana Erol| 💻 Full Stack Developer | 🌍 Istanbul, Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
