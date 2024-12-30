@@ -51,7 +51,7 @@
 </details>
 <!-- end statics fun section -->
 
-<p> -----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p> ----------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p>Always on the hunt for unique wines and pastas to try 🍷🍝.</p>
 <p>Jazz music is my soul’s rhythm 🎷🎶.</p>
 <p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on Medium or hosting my own podcast series 🎙📱.</p>
