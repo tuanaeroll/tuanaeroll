@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast" alt="Typing SVG" />
 </p>
+<p align='center'>
+  <a href="https://github.com/your-github-username"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/github.svg"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter-username"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/twitter.svg"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/your-instagram-username"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/buymeacoffee.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/linkedin.svg"></a>
+</p>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧜‍♀️ Tuana Erol| 💻 Full Stack Developer | 🌍 Istanbul, Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -24,7 +31,7 @@
 
 <!-- start statics fun section -->
 <details>
-<summary><b>| 📊 Some Statistics Fun | </b></summary>
+<summary><b>| 💎 Some Statistics Fun | </b></summary>
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" height="200px" />
@@ -43,7 +50,7 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">🎵 Amy Winehouse - You Know I'm No Good</a></td>
+      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">🎷 Amy Winehouse - You Know I'm No Good</a></td>
     </tr>
     <tr>
       <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank">🎶 Braids - Evolution</a></td>
