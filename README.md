@@ -29,27 +29,34 @@
 </p>
 <!-- Bio -->
 <p>Currently a Patika.dev student, focusing on C# and aiming to become an expert in it 💡🔧.</p>
+<p>Dived into Ruby on Rails, HTML, CSS and JavaScript — at Le Wagon Amsterdam and have been perfecting them ever since 🚀💻.</p>
+<p>Along the way, I’ve worked on some awesome projects that you can check out in my pinned repos 🔥📂.</p>
+<p>Not taking myself too seriously here 😄 Feel free to connect with me through any of the links above! 🌟</p>
+
+<!-- start statics fun section -->
+<details>
+  <summary><b>| 💎 Git Stats | </b></summary>
+  <div align="center">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4&layout=compact" alt="Most Used Languages" height="200px" />
+    </div>
+    <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanaeroll&theme=rose_pine" alt="GitHub Streak Stats" />
+    </div>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tuanaeroll&theme=tokyonight&no-frame=true" alt="GitHub Trophy Stats" />
+  </div>
+</div>
+</details>
+<!-- end statics fun section -->
+
+<p> --------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <p>Always on the hunt for unique wines and pastas to try 🍷🍝.</p>
 <p>Jazz music is my soul’s rhythm 🎷🎶.</p>
 <p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on Medium or hosting my own podcast series 🎙📱.</p>
 <p>Stay tuned! 😎✨</p>
 
-<!-- start statics fun section -->
-<details>
-<summary><b>| 💎 Some Statistics Fun | </b></summary>
-<div align="center">
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanaeroll&show_icons=true&theme=tokyonight&count_private=true&line_height=30" alt="GitHub Stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanaeroll&theme=tokyonight&hide_langs_below=4&layout=compact" alt="Most Used Languages" height="200px" />
-</div>
-
-  <!-- Profil Detay Kartları -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanaeroll&theme=dracula" alt="Profile Details" width="90%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanaeroll&theme=dracula" alt="Repos Per Language" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanaeroll&theme=dracula" alt="Most Commit Language" width="45%" />
-  </div>
-  </details>
-<!-- end statics fun section -->
 <details>
 <summary><b>| 👯 Now Playing | </b></summary>
 <table>
