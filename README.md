@@ -49,8 +49,8 @@
   </div>
   </details>
 <!-- end statics fun section -->
-
-| 🎵 Now Playing |
+<details>
+<summary><b>| 🎵 Now Playing | </b></summary>
 <table>
   <tbody>
     <tr>
@@ -64,3 +64,4 @@
     </tr>
   </tbody>
 </table>
+</details>
