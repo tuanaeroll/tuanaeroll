@@ -1,4 +1,9 @@
 <p align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF88B6&background=FFFFFF00&width=600&lines=Tuana+Erol;Code+and+Design+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- SOCIAL MEDIA ACCOUNTS-->
+<p align='center'>
   <a href="https://dev.to/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ttuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -6,16 +11,11 @@
   <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧜‍♀️ Tuana Erol| 💻 Full Stack Developer | 🌍 Istanbul, Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧜‍♀️ Tuana Erol | 💻 Full Stack Developer | 🌍 Istanbul, Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <p align="center">
-  <i>✨ Passionate about coding, designing, and creating amazing user experiences! 🚀</i>
-</p>
-
-<p align="center">
-  <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- LANGUAGES AND TOOLS ICONS -->
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px">
@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:4px">
 </p>
+<!-- Bio -->
+<p>Currently a Patika.dev student, focusing on C# and aiming to become an expert in it 💡🔧.</p>
+<p>Always on the hunt for unique wines and pastas to try 🍷🍝.</p>
+<p>Jazz music is my soul’s rhythm 🎷🎶.</p>
+<p>I may not be overly dramatic, but one day, you’ll catch me sharing my thoughts on Medium or hosting my own podcast series 🎙📱.</p>
+<p>Stay tuned! 😎✨</p>
 
 <!-- start statics fun section -->
 <details>
@@ -45,7 +51,7 @@
   </details>
 <!-- end statics fun section -->
 <details>
-<summary><b>| 🎵 Now Playing | </b></summary>
+<summary><b>| 👯 Now Playing | </b></summary>
 <table>
   <tbody>
     <tr>
