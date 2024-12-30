@@ -3,11 +3,11 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/github.svg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/tuananerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/twitter.svg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/buymeacoffee.svg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/linkedin.svg?raw=true"></a>
+  <a href="https://github.com/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/github.svg"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/tuananerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/twitter.svg"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/buymeacoffee.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/platforms/linkedin.svg"></a>
 </p>
 
 
