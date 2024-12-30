@@ -54,11 +54,15 @@
 
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
+**Radically empathetic technology illuminates our path towards a more just future.**
+
+<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+
 ---
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/track/3a1hvjxtTfzFLraNFU0mnM?si=2c3e49156d8a4e39" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b2731fd1d41561adf5dbf05056a1" width="540" height="64" alt="Amy Winehouse - You Know I'm No Good"></a> |
+| <a href="https://open.spotify.com/track/3a1hvjxtTfzFLraNFU0mnM?si=2c3e49156d8a4e39" target="_blank">Amy Winehouse - You Know I'm No Good</a> |
 
 <table>
   <thead>
@@ -68,13 +72,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b273d9f70a2c8c074a7575e27211" width="540" height="64" alt="Amy Winehouse - You Know I'm No Good"></a></td>
+      <td><a href="https://open.spotify.com/track/1wEVxIrnQdCjKLX0hDTfDa?si=929b820f7f31454f" target="_blank">Amy Winehouse - You Know I'm No Good</a></td>
     </tr>
     <tr>
-      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b273db611080a66d900ce4999985" width="540" height="64" alt="Evolution - Braids"></a></td>
+      <td><a href="https://open.spotify.com/track/0mO0tUoFe0lx8V0c1c0g2H?si=2cf5ed37e178402f" target="_blank">Braids - Evolution</a></td>
     </tr>
     <tr>
-      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b2733485ad0b8b2839b13c12b95c" width="540" height="64" alt="Habibi - Tamino"></a></td>
+      <td><a href="https://open.spotify.com/track/2D1Z7w9Ejz4np17itWiNYy?si=ed61f8b88e624831" target="_blank">Tamino - Habibi</a></td>
     </tr>
   </tbody>
 </table>
