@@ -6,10 +6,11 @@
 <p align='center'>
   <a href="https://dev.to/tuana_erol_16cb7bec381d18"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/tuananerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/tuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+  <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/tuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧜‍♀️ Tuana Erol | 💻 Full Stack Developer | 🌍 Istanbul, Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
