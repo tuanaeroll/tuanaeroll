@@ -3,7 +3,6 @@
 </p>
 
 <!-- SOCIAL MEDIA ACCOUNTS-->
-## Connect with me
 
 <p align='center'>
   <a href="https://dev.to/tuana_erol_16cb7bec381d18"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -38,7 +37,9 @@
 <!-- Bio -->
 <p>Currently a Patika.dev student, focusing on C# and aiming to become an expert in it 💡🔧.</p>
 <p>Dived into Ruby on Rails, HTML, CSS and JavaScript — at Le Wagon Amsterdam and have been perfecting them ever since 🚀💻.</p>
-<p>Along the way, I’ve worked on some awesome projects that you can check out in my pinned repos 🔥📂.</p>
+<p>Along the way, I’ve worked on some awesome projects that you can check out in my pinned repos 🔥📂. Also, feel free to take a look at my portfolio <a href="https://troopl.com/tuanaerol" style="color: transparent; text-decoration: none;">here</a>!</p>
+
+
 
 <!-- start statics fun section -->
 <details>
