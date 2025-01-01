@@ -39,8 +39,6 @@
 <p>Dived into Ruby on Rails, HTML, CSS and JavaScript — at Le Wagon Amsterdam and have been perfecting them ever since 🚀💻.</p>
 <p>Along the way, I’ve worked on some awesome projects that you can check out in my pinned repos 🔥📂. Also, feel free to take a look at my portfolio <a href="https://troopl.com/tuanaerol" style="color: transparent; text-decoration: none;">here</a>!</p>
 
-
-
 <!-- start statics fun section -->
 <details>
   <summary><b>| 💎 Git Stats | </b></summary>
