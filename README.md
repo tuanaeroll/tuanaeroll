@@ -3,13 +3,17 @@
 </p>
 
 <!-- SOCIAL MEDIA ACCOUNTS-->
+## Connect with me
+
 <p align='center'>
   <a href="https://dev.to/tuana_erol_16cb7bec381d18"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/tuananerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>&nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/tuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://troopl.com/tuanaerol"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/portfolio-icon.png"></a>
 </p>
+
 
 
 <div align="center">
