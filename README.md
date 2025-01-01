@@ -4,10 +4,10 @@
 
 <!-- SOCIAL MEDIA ACCOUNTS-->
 <p align='center'>
-  <a href="https://dev.to/tuanaeroll"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ttuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/tuana_erol_16cb7bec381d18"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/tuananerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/ttuanaerol"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/your-coffee-page"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+  <a href="https://www.buymeacoffee.com/tuanaerol?status=1"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
   <a href="https://www.linkedin.com/in/eroltuana/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
